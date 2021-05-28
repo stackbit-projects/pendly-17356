@@ -4,7 +4,7 @@ id: '8'
 price: '50.00'
 title: Fusce sed
 description: In cursus sagittis eros non congue.
-default_thumbnail_image: images/plant8.jpg
+default_thumbnail_image: images/HorizontalEngravableBar_Necklace_yg_Hero-0182.jpg
 default_original_image: images/plant8-lg.jpg
 order: 8
 category: category/summer.md
