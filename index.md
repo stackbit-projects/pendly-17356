@@ -54,7 +54,7 @@ sections:
     section_id: promotion_section
     title: A new pendant for your neck
     subtitle: from $19.99
-    image: images/promo.jpg
+    image: images/1.jpeg
     background_image: images/leaf.svg
     cta:
       title: Discover
