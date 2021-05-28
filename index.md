@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/2.jpeg
+    background_image: images/2-2.jpeg
     background_image_opacity: 65
     content: >
       # Real, beautiful pendants right to your door
