@@ -16,7 +16,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love plants
+      - title: We love pendants
         description: >-
           Now THAT is true, but we love web development even more. We talk about
           it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
