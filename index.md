@@ -7,12 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/panoramic-bee.jpeg
     background_image_opacity: 65
-    content: >
+    content: |
       # Real, beautiful pendants right to your door
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      New editions every monday
     actions:
       - title: See all items
         url: /store
