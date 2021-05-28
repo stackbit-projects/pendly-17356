@@ -8,7 +8,7 @@ sections:
     background_image: images/panoramic-bee.jpeg
     background_image_opacity: 65
     content: |
-      # Real, beautiful pendants right to your door
+      # Beautiful pendants right to your door
 
       New editions every monday
     actions:
