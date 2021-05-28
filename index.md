@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/DT-1-2.jpeg
+    background_image: images/come-say-hi_1.jpg
     background_image_opacity: 65
     content: >
       # Real, beautiful pendants right to your door
