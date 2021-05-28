@@ -5,7 +5,7 @@ price: '100.00'
 title: Donec finibus
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/RoundEngravable_necklace_v_hero.jpg
-default_original_image: images/plant6-lg.jpg
+default_original_image: images/melodic-rosemary.jpg
 order: 6
 category: category/bigplants.md
 seo:
