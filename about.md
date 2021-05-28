@@ -6,7 +6,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: We are Planty
+    headline: We are Pendly
     subtitle: >
       Well, not really. We’re Pendly—a bunch of geeks from Frankfurt City.
       Planty is a theme we built for [Stackbit](https://www.stackbit.com/), a
