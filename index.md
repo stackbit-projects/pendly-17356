@@ -12,7 +12,7 @@ sections:
 
       New editions every monday
     actions:
-      - title: See all items
+      - title: See all pendants
         url: /store
         arrow: true
         style: primary
