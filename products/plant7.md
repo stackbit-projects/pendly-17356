@@ -5,7 +5,7 @@ price: '18.90'
 title: Sed consectetur
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/Mens_necklace_onyxpendant_yg_hero-2.jpg
-default_original_image: images/_MG_0975 1-min.jpg
+default_original_image: images/polite-mango.jpg
 order: 7
 category: category/bigplants.md
 seo:
