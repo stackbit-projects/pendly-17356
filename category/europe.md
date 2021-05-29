@@ -1,5 +1,5 @@
 ---
-title: Organic
+title: Organic shapes
 layout: category
 order: 3
 seo:
