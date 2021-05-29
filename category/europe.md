@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: Organic
 layout: category
 order: 3
 seo:
