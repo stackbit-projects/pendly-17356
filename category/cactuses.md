@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Zodiac
 layout: category
 order: 2
 seo:
