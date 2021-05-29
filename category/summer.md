@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: geometric shapes
 layout: category
 order: 4
 seo:
