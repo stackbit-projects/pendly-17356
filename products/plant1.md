@@ -38,6 +38,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
+Material: Gold
 ---
 
 # Nulla suscipit
