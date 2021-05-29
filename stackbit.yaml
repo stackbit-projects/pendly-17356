@@ -523,8 +523,8 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: ''
-        type: string
+      - type: string
+        name: Material
   action:
     type: object
     label: Action
