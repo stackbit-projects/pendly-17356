@@ -525,6 +525,7 @@ models:
         label: Seo
       - type: string
         name: Material
+        required: true
   action:
     type: object
     label: Action
